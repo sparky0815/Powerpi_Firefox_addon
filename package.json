@@ -1,0 +1,18 @@
+        {
+            "description": "Mit diesem Addon ist es m\u00f6glich seine Funksteckdosen in Verbindung mit einem Raspberry Pi und installiertem PowerPi \u00fcber Firefox zu steuern. Weitere Infos und Links zu PowerPi unter: http://sparky0815.de/2013/11/raspberry-pi-funksteckdosen-schalten-mit-powerpi/", 
+            "license": "MPL 2.0", 
+            "author": "Christian Laux", 
+            "title": "PowerPi", 
+            "version": "0.1", 
+            "id": "jid1-QDq2YItyESolug", 
+            "name": "powerpi",
+			"icon": "icon-32.png",
+			"icon64": "icon-64.png",
+			
+        "preferences": [
+        {
+            "description": "Bitte geben Sie hier die IP Adresse zu Ihrem PowerPi-Server ein.", 
+            "type": "string", 
+            "name": "powerpiadress", 
+            "value": "info.html", 
+            "title": "PowerPi Adresse (z.B.: http://192.168.178.27)"}]}

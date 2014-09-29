@@ -1,0 +1,19 @@
+{
+    "fullName": "PowerPi Addon",
+"preferences": [{
+        "name": "somePreference",
+        "title": "Some preference title",
+        "description": "Some short description for the preference",
+        "type": "string",
+        "value": "this is the default string value"
+    },
+{
+  "name": "PowerPi",
+  "title": "PowerPi",
+  "id": "jid1-QDq2YItyESolug",
+  "description": "Mit diesem Addon ist es möglich seine Funksteckdosen über Firefox zu steuern in Verbindung mit einem Raspberry Pi und installiertem PowerPi. Weitere Infos unter http://www.xxx.de",
+  "author": "Christian Laux",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}]
+}
